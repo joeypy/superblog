@@ -1,4 +1,12 @@
 body {
   background-color: black;
   color: white;
+  text-align: center;
+}
+
+.container {
+    width: 60%;
+    margin: 0 auto;
+    border: 3px solid white;
+    background-color: rgb(58, 58, 58);
 }
