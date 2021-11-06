@@ -1,8 +1,5 @@
 Esta es la historia de Joseph Boscan
 
 Joseph Boscan tiene 30 años y nació en Venezuela
-y nunca he salido de Venezuela
 
-Hoy hablamos de tu vida y obra maestra.
-
-En foto se ve feo, pero en personas es más.
+Cambiando el archivo con checkout y reescribiendo todo el código.
