@@ -32,7 +32,14 @@ body {
 .content p {
     font-size: 1.2rem;
 }
-
 .logo {
     width: 3rem;
+}
+.footer_article {
+    background-color: green;
+}
+.footer_article h3 {
+    text-align: center;
+    margin: 0;
+    padding: 1rem;
 }
