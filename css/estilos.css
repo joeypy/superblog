@@ -31,3 +31,10 @@ body {
 .content p {
     font-size: 1.2rem;
 }
+.footer_article {
+    background-color: green;
+}
+.footer_article h3 {
+    margin: 0;
+    padding: 1rem;
+}
