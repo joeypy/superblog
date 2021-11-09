@@ -1,2 +1,2 @@
 # superblog
-aprendiendo git
+aprendiendo git avanzado en platzi
